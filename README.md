@@ -1,3 +1,4 @@
+Bóta László Levente
 # Webpack keretalkalmazás
 
 ## Telepítés
