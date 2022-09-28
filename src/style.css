@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+textarea{
+    height: 30px;
+}
+img{
+    width: 500px;
+    border: 20px solid;
+}
+.szelessegV{
+    width:200px;
+}
